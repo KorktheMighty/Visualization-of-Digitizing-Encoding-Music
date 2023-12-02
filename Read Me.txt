@@ -6,7 +6,4 @@ The user has the option to use either a made piano or letting the computer rando
 a WAV and named either "random_song" or "recorded_audio". The file named Part 3 will the visualization of the encoded music alongside 
 how much of the signal in dB was loss. On the encoding program, Part 2, the fft and spectrogram of the audio are shown also.
 
-This code was a final project for my class PHYS 465 - "Physics of Sound" and given with a presentation on the code and its purpose in
-use.
-
 NOTE - the python file was tested to be sure the encoding process was correct. It has no other use with the MATLAB files. The file named "Piano" has the piano GUI used to record the short tune used later for signal processing.
